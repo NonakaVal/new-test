@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "c82cd15b3fdff3ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d6411be9d335ed8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "11681d246323bcbf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nova-nota.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "nova-nota"
+            }
+          }
+        ]
+      },
+      {
+        "id": "1016fc94f17d36d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdf8a56f6902e500",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a517bba87071f3b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "9d069714438ee188",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea1701f0e97b5c4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "90a0b64822854b0c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "913ebf0da35308f7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "61bb4c8e03d248db",
+    "type": "split",
+    "children": [
+      {
+        "id": "1f189cd2b62c4860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaa7ae984743762c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nova-nota.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for nova-nota"
+            }
+          },
+          {
+            "id": "ed4ebff9404945f8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nova-nota.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from nova-nota"
+            }
+          },
+          {
+            "id": "d7b9779bfc6a9cea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5c5dd19de71421bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nova-nota.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of nova-nota"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "11681d246323bcbf",
+  "lastOpenFiles": [
+    "README.md",
+    "Welcome.md",
+    "nova-nota.md"
+  ]
+}

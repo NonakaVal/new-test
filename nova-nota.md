@@ -1,2 +1,2 @@
 
-- [ ] task qualquer
+- [x] task qualquer

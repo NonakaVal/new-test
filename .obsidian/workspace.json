@@ -11,14 +11,14 @@
             "id": "11681d246323bcbf",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "nova-nota.md",
-                "bFile": "nova-nota.md",
-                "aRef": ""
+                "file": "nova-nota-2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: nova-nota"
+              "icon": "lucide-file",
+              "title": "nova-nota-2"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "nova-nota-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for nova-nota-2"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "nova-nota-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from nova-nota-2"
             }
           },
           {
@@ -140,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "nova-nota-2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of nova-nota-2"
             }
           },
           {
@@ -180,6 +183,7 @@
   "lastOpenFiles": [
     "nova-nota.md",
     "nova-nota-2.md",
+    "Untitled.md",
     "README.md",
     "Welcome.md"
   ]
